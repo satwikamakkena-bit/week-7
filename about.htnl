@@ -1,0 +1,31 @@
+<!DOCTYPE html
+<html lang="en"> 
+<head> 
+    <meta charset="UTF-8"> 
+    <title>About | My Portfolio</title> 
+    <link rel="stylesheet" href="style.css"> 
+</head> 
+<body> 
+    <header><h1>About Me</h1></header> 
+    <nav> 
+        <a href="index.html">Home</a> 
+        <a href="about.html">About</a> 
+        <a href="contact.html">Contact</a> 
+    </nav> 
+    <div class="section"> 
+        <div class="card"> 
+            <h3>Education</h3> 
+            <p>Master of Computer Applications (MCA), 2024 - 2026.</p> 
+        </div> 
+        <div class="card"> 
+            <h3>Skills</h3> 
+            <ul> 
+                <li>HTML5 &amp; CSS3</li> 
+                <li>JavaScript</li> 
+                <li>PHP &amp; MySQL</li> 
+            </ul> 
+        </div> 
+    </div> 
+    <footer><p>&copy; 2025 satwika</p></footer> 
+</body> 
+</html> 
